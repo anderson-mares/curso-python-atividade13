@@ -1,5 +1,5 @@
 # importando o módulo
-from calculos import potencia, raiz_quadrada
+from calculo import potencia, raiz_quadrada
 
 # programa principal
 if __name__ == "__main__":
